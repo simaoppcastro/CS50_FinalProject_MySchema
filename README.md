@@ -12,12 +12,11 @@
 * FronEnd: Angular (9)
 * BackEnd: Python + Flask
 
-The objective of this project is the development of an application that can acquire content from a certain user, according to predefined Schemas (https://schema.org/), 
-save the information introduced by the user according to standards that allow the semantic web, as well as the ontology concept. 
+The objective of this project is the development of an application that can acquire content from a certain user, according to predefined schemes (https://schema.org/), 
+save the information entered by the user according to standards that allow the semantic web, as well as the ontology concept. 
 With the information collected and properly stored, thus generate information and knowledge ontologies. 
-As an interface between user and machine, a web application was developed, supporting the creation of new users as well as their management, 
-which will allow the introduction of information per user and the visualization of the collected data.
-As a final result it is given the possibility to generate ontologies according to the stored data.
+As an interface between user and machine, a web application was developed, using python and flask for the backend and angular for the frontend, supporting the creation of new users as well as their management, which will allow the introduction of information per user and the visualization of the collected data.
+As a final result, ontologies (xml and rdf) can be generated according to the stored data.
 
 ## Objectives
 * Comparison of the different vocabularies used/relationed with the semantic web, with the preferential use of schema.org (https://schema.org/) vocabularies;
