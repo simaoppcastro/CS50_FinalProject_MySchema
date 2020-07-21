@@ -12,7 +12,7 @@
 * FronEnd: Angular (9)
 * BackEnd: Python + Flask
 
-The objective of this project is the development of an application that can acquire content from a certain user, according to predefined Schemas, 
+The objective of this project is the development of an application that can acquire content from a certain user, according to predefined Schemas (https://schema.org/), 
 save the information introduced by the user according to standards that allow the semantic web, as well as the ontology concept. 
 With the information collected and properly stored, thus generate information and knowledge ontologies. 
 As an interface between user and machine, a web application was developed, supporting the creation of new users as well as their management, 
